@@ -3,7 +3,7 @@ Custom DQN Training for Gym Environment
 This project implements a Custom Deep Q-Network (DQN) for training on the "ALE/Boxing-v5" environment from OpenAI Gym.
 
 Prerequisites
-Python 3.x
+Python 3.11.9
 PyTorch
 Gym
 Stable Baselines3
@@ -11,10 +11,9 @@ TorchSummary
 Installation
 Clone the repository:
 
-bash
-複製程式碼
-git clone https://github.com/your_username/your_repo.git
-cd your_repo
+
+`git clone https://github.com/your_username/your_repo.git
+cd your_repo`
 Install the required packages:
 
 bash
