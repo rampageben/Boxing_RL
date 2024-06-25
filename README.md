@@ -11,9 +11,10 @@ TorchSummary
 Installation
 Clone the repository:
 
-
-`git clone https://github.com/your_username/your_repo.git
-cd your_repo`
+```bash
+git clone https://github.com/your_username/your_repo.git
+cd your_repo
+```
 Install the required packages:
 
 bash
